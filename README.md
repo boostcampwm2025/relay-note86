@@ -1,6 +1,6 @@
 # relay-note86
 
-<img width="960" height="747" alt="image" src="https://github.com/user-attachments/assets/75c26928-6ed1-4452-a266-e0fd5ef8c2b8" />
+<img width="236" height="317" alt="image" src="https://github.com/user-attachments/assets/9082b631-b1cf-40f2-b555-e5f277bea2e0" />
 
 <br>
 
