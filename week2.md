@@ -121,5 +121,7 @@
 - 선택 이유: 평소 학습 정리와 프로그래밍 구현의 밸런스를 잘 맞췄는지, 학습정리를 AI 도움없이 나만의 언어로 작성하였는지, 미션을 수행하기 위해 학습에서 부족한 부분이 없는지 등 미션에 대한 고민을 많이 합니다. 제가 생각하는 답은 있지만 이게 객관적으로 맞는지 잘 모를 때도 있고, 미션 수행에 빠지다보면 앞에서 말한 기준대로 잘 진행했는지 회고를 까먹기도 합니다. 따라서 AI를 통해 제가 원하는 기준으로 객관적인 분석을 받고싶어 선택하였습니다.
 - 수행 과정: 미션을 수행하며 작성한 [gist 링크](https://gist.github.com/hanpengbutt/6e4d5972500d44e4b88c91e0dd959f52)를 포함하여 README를 읽고 개선하기 이전, 이후를 비교해서 어제보다 나아진 점을 분석하는 보고서를 제작해달라고 요청하였습니다. 이전에 AI 피어세션을 진행하며 AI 분석 보고서를 제작해보았는데, 나아진 점 및 아쉬운 점을 체계적으로 분석받아 좋았던 경험이 있어 다음처럼 수행하였습니다. 또 3주차의 경우 개선하기 미션을 진행하였기 때문애 나아진점을 분석할 때 개선 전, 후를 비교하면 좋을 것 같아 다음처럼 수행하였습니다.
 - 수행 결과
-<img width="950" height="1152" alt="image" src="https://gist.github.com/user-attachments/assets/c3c67856-28ca-4e22-a315-1b5f684c6a10" /><img width="966" height="1374" alt="image" src="https://gist.github.com/user-attachments/assets/17c06025-59e8-4a5a-82f2-aa4aba410b94" />
+  
+<img width="475" height="576" alt="스크린샷 2025-08-01 오후 1 11 29" src="https://github.com/user-attachments/assets/71f05083-d2e4-45c1-b384-18d6a1de0bf3" /><img width="483" height="687" alt="스크린샷 2025-08-01 오후 1 11 43" src="https://github.com/user-attachments/assets/8daa3881-a63b-45fc-9819-a3bcc1bd03ca" />
+
 - 수행 후기: 제가 개선한 점을 한 눈에 정리해주어 좋았습니다. 보고서가 추천해준 향후 계획 및 아쉬운점을 개선하면 좋을 것 같습니다.
