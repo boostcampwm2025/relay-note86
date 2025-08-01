@@ -46,8 +46,8 @@
 - 선택 이유: LLM이 휴식시간을 판단할 때 합리적인 이유가 있지 않을까 기대되어.
 
 - 사용 프롬프트: 지금까지 우리의 대화 내용을 고려해서, 5 ~ 30분 사이의 휴식 추천해줘. 다음날의 휴식 시간대 + 휴식할 시간 추천이야.
-- 결과:
-  ![](https://raw.githubusercontent.com/kimstitute/imageRepo/refs/heads/main/day13-14/ai%EC%9D%91%EB%8B%B5.png)
+- 결과:  
+![](https://raw.githubusercontent.com/kimstitute/imageRepo/refs/heads/main/day13-14/ai%EC%9D%91%EB%8B%B5.png)
 
 ### J072 김지원
 - 선택한 퀘스트: 오늘 사용한 AI 대화내용을 기반으로 5 ~ 30분 사이의 휴식 추천 받기
